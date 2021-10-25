@@ -4,7 +4,7 @@ import './Header.css'
 
 const Header = () => {
     return(
-        <p> Header component </p>
+        <p className='bg-gray-300 pb-8'> Header component </p>
     );
 }
 
